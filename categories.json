@@ -1,0 +1,167 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "attributes": {
+        "nom": "Fenòlic",
+        "createdAt": "2023-03-14T15:49:57.796Z",
+        "updatedAt": "2023-03-14T17:37:40.759Z",
+        "publishedAt": "2023-03-14T17:37:40.756Z",
+        "locale": "ca-ES"
+      }
+    },
+    {
+      "id": 2,
+      "attributes": {
+        "nom": "Al·lumini",
+        "createdAt": "2023-03-14T15:52:54.419Z",
+        "updatedAt": "2023-03-14T17:35:46.741Z",
+        "publishedAt": "2023-03-14T17:35:46.738Z",
+        "locale": "ca-ES"
+      }
+    },
+    {
+      "id": 3,
+      "attributes": {
+        "nom": "Ceràmica",
+        "createdAt": "2023-03-14T15:53:06.485Z",
+        "updatedAt": "2023-03-14T17:35:56.332Z",
+        "publishedAt": "2023-03-14T17:35:56.329Z",
+        "locale": "ca-ES"
+      }
+    },
+    {
+      "id": 4,
+      "attributes": {
+        "nom": "Composite",
+        "createdAt": "2023-03-14T15:53:28.508Z",
+        "updatedAt": "2023-03-14T17:36:35.313Z",
+        "publishedAt": "2023-03-14T17:36:35.309Z",
+        "locale": "ca-ES"
+      }
+    },
+    {
+      "id": 5,
+      "attributes": {
+        "nom": "Equitone",
+        "createdAt": "2023-03-14T15:53:34.689Z",
+        "updatedAt": "2023-03-14T17:36:39.392Z",
+        "publishedAt": "2023-03-14T17:36:39.389Z",
+        "locale": "ca-ES"
+      }
+    },
+    {
+      "id": 6,
+      "attributes": {
+        "nom": "Euronit",
+        "createdAt": "2023-03-14T15:53:40.968Z",
+        "updatedAt": "2023-03-14T17:36:44.977Z",
+        "publishedAt": "2023-03-14T17:36:44.974Z",
+        "locale": "ca-ES"
+      }
+    },
+    {
+      "id": 7,
+      "attributes": {
+        "nom": "Fibrociment",
+        "createdAt": "2023-03-14T15:54:15.514Z",
+        "updatedAt": "2023-03-14T17:36:59.745Z",
+        "publishedAt": "2023-03-14T17:36:59.742Z",
+        "locale": "ca-ES"
+      }
+    },
+    {
+      "id": 8,
+      "attributes": {
+        "nom": "Fontek",
+        "createdAt": "2023-03-14T15:54:21.444Z",
+        "updatedAt": "2023-03-14T17:37:03.147Z",
+        "publishedAt": "2023-03-14T17:37:03.144Z",
+        "locale": "ca-ES"
+      }
+    },
+    {
+      "id": 9,
+      "attributes": {
+        "nom": "Neolith",
+        "createdAt": "2023-03-14T15:54:42.644Z",
+        "updatedAt": "2023-03-14T17:37:06.898Z",
+        "publishedAt": "2023-03-14T17:37:06.895Z",
+        "locale": "ca-ES"
+      }
+    },
+    {
+      "id": 10,
+      "attributes": {
+        "nom": "Pedra",
+        "createdAt": "2023-03-14T15:54:49.097Z",
+        "updatedAt": "2023-03-14T17:37:10.881Z",
+        "publishedAt": "2023-03-14T17:37:10.878Z",
+        "locale": "ca-ES"
+      }
+    },
+    {
+      "id": 11,
+      "attributes": {
+        "nom": "Pedra natural",
+        "createdAt": "2023-03-14T15:54:58.548Z",
+        "updatedAt": "2023-03-14T17:37:18.409Z",
+        "publishedAt": "2023-03-14T17:37:18.406Z",
+        "locale": "ca-ES"
+      }
+    },
+    {
+      "id": 12,
+      "attributes": {
+        "nom": "Pedra Travertí",
+        "createdAt": "2023-03-14T15:55:36.926Z",
+        "updatedAt": "2023-03-14T17:37:13.833Z",
+        "publishedAt": "2023-03-14T17:37:13.830Z",
+        "locale": "ca-ES"
+      }
+    },
+    {
+      "id": 13,
+      "attributes": {
+        "nom": "Sòl tècnic",
+        "createdAt": "2023-03-14T15:55:46.956Z",
+        "updatedAt": "2023-03-14T17:37:21.861Z",
+        "publishedAt": "2023-03-14T17:37:21.858Z",
+        "locale": "ca-ES"
+      }
+    },
+    {
+      "id": 14,
+      "attributes": {
+        "nom": "Terracota",
+        "createdAt": "2023-03-14T15:56:04.898Z",
+        "updatedAt": "2023-03-14T17:37:28.511Z",
+        "publishedAt": "2023-03-14T17:37:28.509Z",
+        "locale": "ca-ES"
+      }
+    },
+    {
+      "id": 15,
+      "attributes": {
+        "nom": "Trespa",
+        "createdAt": "2023-03-14T15:56:10.288Z",
+        "updatedAt": "2023-03-14T17:37:45.290Z",
+        "publishedAt": "2023-03-14T17:37:45.287Z",
+        "locale": "ca-ES"
+      }
+    },
+    {
+      "id": 16,
+      "attributes": {
+        "nom": "Tectiva",
+        "createdAt": "2023-03-14T15:56:22.615Z",
+        "updatedAt": "2023-03-14T17:37:25.315Z",
+        "publishedAt": "2023-03-14T17:37:25.313Z",
+        "locale": "ca-ES"
+      }
+    }
+  ],
+  "meta": {
+    "pagination": { "page": 1, "pageSize": 25, "pageCount": 1, "total": 16 }
+  }
+}
